@@ -16,10 +16,11 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN,www.xiakekanpian.com
-DOMAIN,www.xfollow.com
-DOMAIN,www.cn.pornhub.com
-DOMAIN,callofduty.com
+DOMAIN-SUFFIX,xiakekanpian.com
+DOMAIN-SUFFIX,xfollow.com
+DOMAIN-SUFFIX,cn.pornhub.com
+DOMAIN-SUFFIX,callofduty.com
+DOMAIN-SUFFIX,google.com
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
