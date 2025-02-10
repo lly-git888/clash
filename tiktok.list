@@ -15,6 +15,12 @@ DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,capcutapi.com
+DOMAIN-SUFFIX,commerce-api-mya.capcutapi.com
+DOMAIN-SUFFIX,editor-api-va.capcutapi.com
+DOMAIN-SUFFIX,feed-api-va.capcutapi.com
+DOMAIN-SUFFIX,feed-api-boot.capcutapi.com
+DOMAIN-SUFFIX,heycan-api-va.capcutapi.com
+DOMAIN-SUFFIX,pc-mon-boot.capcutapi.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ipstatp.com
