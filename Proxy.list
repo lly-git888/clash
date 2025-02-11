@@ -22,9 +22,10 @@ DOMAIN-SUFFIX,activision.com
 DOMAIN-SUFFIX,xiakekanpian.com
 DOMAIN-SUFFIX,xfollow.com
 DOMAIN-SUFFIX,cn.pornhub.com
-DOMAIN-SUFFIX,speedtest.net
 
 # 其他网站
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest2.mtel.mo
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
