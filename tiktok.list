@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,dns.tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokd.net
@@ -35,8 +36,8 @@ DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,ttwebview.com
+DOMAIN-SUFFIX,ads.tiktok.com
 DOMAIN-SUFFIX,api16-core-useast5.tiktokv.us
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
-DOMAIN-SUFFIX,ads.tiktok.com
 PROCESS-NAME,com.zhiliaoapp.musically
